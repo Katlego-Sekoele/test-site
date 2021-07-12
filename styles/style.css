@@ -1,0 +1,43 @@
+html {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #1d1d1d;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #d12b2b;
+    text-shadow: 3px 3px 1px rgb(153, 12, 12);
+}
+  
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: white;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #2805a7;
+    padding: 0 10px;
+    border: 5px solid black;
+}
+
+#project-image{
+    width: 600px;
+    display: block;
+    margin: 5% auto;
+}
+
+a {
+    color: yellow;
+}
+
+#change-user {
+    text-align: center;
+}
